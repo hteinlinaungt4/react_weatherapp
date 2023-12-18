@@ -1,4 +1,4 @@
-![Alt text](src/img/Screenshot from 2023-12-18 22-20-59.png)
+![Alt text](https://github.com/hteinlinaungt4/react_weatherapp/blob/main/src/img/Screenshot%20from%202023-12-18%2022-20-59.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
